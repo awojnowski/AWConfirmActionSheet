@@ -25,3 +25,8 @@ Example
         
     }];
     [confirmActionSheet showInView:[self view]];
+
+Screenshot
+----------
+
+![Screenshot](http://i.imgur.com/NrYYiY3.png "Screenshot")
